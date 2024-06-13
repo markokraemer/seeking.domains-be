@@ -23,6 +23,10 @@ app = FastAPI()
 # Add CORS middleware
 origins = [
     "http://www.seeking.domains/",
+    "https://www.seeking.domains/",    
+    "https://seeking.domains/",        
+    "http://seeking.domains/",    
+    "seeking-domains.vercel.app",                    
 ]
 
 app.add_middleware(
