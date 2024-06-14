@@ -27,6 +27,7 @@ origins = [
     "https://seeking.domains",
     "http://seeking.domains",
     "https://seeking-domains.vercel.app",
+    "https://be.seeking.domains" 
 ]
 
 app.add_middleware(
@@ -319,5 +320,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-
-
