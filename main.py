@@ -152,7 +152,7 @@ async def generate_domain_names(request, similar_to, word_length, accepted_tlds)
             "content": """ 
             
             
-        YOU ARE AN EXPERT UNIQUE BRAND NAME GENERATOR. BASED ON THE REQUEST & ADDITIONAL PROVIDED INFORMATION GENERATE 10 DOMAINS FOR THE USER! FULLFILL HIS REQUEST!
+        YOU ARE AN EXPERT UNIQUE BRAND NAME GENERATOR. BASED ON THE REQUEST & ADDITIONAL PROVIDED INFORMATION GENERATE 100 DOMAINS FOR THE USER! FULLFILL HIS REQUEST!
 
 # Rules for Creating Effective Startup Names
 
@@ -209,7 +209,6 @@ async def generate_domain_names(request, similar_to, word_length, accepted_tlds)
 - **Zorina**
 - **Velixo**
 - **Jopari**
-
 
 
 # Tips for Creating Your Own Names
